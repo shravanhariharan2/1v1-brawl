@@ -6,9 +6,11 @@ A player vs computer turn-based battle simulation in which the user fights again
 - Defense
 - Speed
 - Accuracy
+
 and more complicated ones such as
--Critical Strike chance
--Speed ties
--Hidden mechanics
+
+- Critical Strike chance
+- Speed ties
+- Hidden mechanics
 
 Game consists of 3 enemies and the user will win once all enemies are defeated.
