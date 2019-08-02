@@ -1,4 +1,4 @@
-# 1v1-brawl
+# 1v1-brawlers
 
 A player vs computer turn-based battle simulation in which the user fights against different enemies using a default move set. Game includes simple battle features such as:
 - Health
